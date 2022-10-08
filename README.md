@@ -64,3 +64,7 @@ flutter_native_splash:
 
 ### 📷 **Demo**
 - Reference `https://dribbble.com/shots/15154811-Gaming-App-UI`
+
+
+https://user-images.githubusercontent.com/68719199/194697552-6ef1ed20-0cd2-4b2a-8964-015aa1c11173.mp4
+
