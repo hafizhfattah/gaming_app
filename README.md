@@ -1,6 +1,6 @@
 ### 📦 **Gaming App**
 
-A Community & Mentoring App With Name GamingZ
+A Community & Mentoring App With Name GamingZ.
 
 ### 🎁 **Fiture**
 - Icon Logo
