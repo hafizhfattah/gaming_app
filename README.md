@@ -1,7 +1,6 @@
-### 📦 **Gaming App (GamingZ)**
+### 📦 **Gaming App**
 
 A Community & Mentoring App With Name GamingZ
-Made With Flutter
 
 ### 🎁 **Fiture**
 - Icon Logo
